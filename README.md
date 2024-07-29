@@ -1,4 +1,6 @@
 # CNN-pour-la-Reconnaissance-d-Objets-en-Couleur-avec-le-Dataset-CIFAR-10
+![ảnh](https://github.com/user-attachments/assets/e562f5c1-6ecc-433d-a879-ec11491fbcd9)
+
 Ce projet démontre l'application des réseaux de neurones convolutifs (CNN) pour la tâche de reconnaissance d'objets en couleur en utilisant le dataset CIFAR-10. Le dataset CIFAR-10 se compose de 60 000 images couleur de 32x32 pixels réparties en 10 classes différentes. L'objectif de ce projet est de construire, entraîner et évaluer un modèle CNN capable de classer ces images dans leurs catégories respectives.
 ## Structure du projet
 https://github.com/DeoMuunduku/CNN-pour-la-Reconnaissance-d-Objets-en-Couleur-avec-le-Dataset-CIFAR-10/blob/main/cvcvcv.png
