@@ -15,7 +15,7 @@ Préparation des données :
 Transformation des données pour la normalisation et l'augmentation des données.
 Chargement des datasets d'entraînement et de validation.
 Architecture du modèle :
-
+ 
 Définition de l'architecture du modèle CNN avec PyTorch.
 Spécification des couches, des fonctions d'activation et des taux de dropout.
 Entraînement du modèle :
